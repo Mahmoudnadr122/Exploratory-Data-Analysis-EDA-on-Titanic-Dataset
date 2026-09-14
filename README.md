@@ -9,20 +9,13 @@ An end-to-end, reproducible Exploratory Data Analysis (EDA) project on the class
 > **Tip:** You can place your screenshots taken from VS Code / Jupyter inside an `assets/` or `images/` directory in this repository, and they will render directly below.
 
 ### 1. VS Code Environment & Data Inspection
-<p align="center">
-  <img src="images/notebook_overview.png" alt="VS Code Notebook Overview" width="850"/>
-</p>
+![VS Code Notebook Overview](./notebook_overview.png)
 
 ### 2. Group Statistics & Distribution Analysis
-<p align="center">
-  <img src="images/eda_statistics.png" alt="Statistical Summaries in VS Code" width="850"/>
-</p>
+![Statistical Summaries in VS Code](./eda_statistics.png)
 
 ### 3. Visualizations & Correlation Heatmaps
-<p align="center">
-  <img src="images/eda_visualizations.png" alt="Visualizations Output" width="850"/>
-</p>
-
+![Visualizations Output](./eda_visualizations.png)
 ---
 
 ## 🗂️ Dataset Information & Local Path
